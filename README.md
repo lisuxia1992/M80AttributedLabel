@@ -1,6 +1,6 @@
 M80AttributedLabel
 ==================
-
+实现文字与表情的混排
 
 Another attributed label using CoreText
 
